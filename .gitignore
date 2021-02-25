@@ -1,0 +1,17 @@
+# .envrc
+**/.envrc
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# data science
+**/logs/
+**/tmp/
+**/metastore_db/
+**/spark-warehouse/
+
+# large file
+usr/
+
+# mnt
+mnt/

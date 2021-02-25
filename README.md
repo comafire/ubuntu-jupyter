@@ -201,7 +201,7 @@ Spark 실행을 의한 의존성 패키지들을 설치 및 다운받아 프로�
 
 openjdk-8: https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
 scala-2.12.10: https://www.scala-lang.org/download/2.12.11.html
-spark-2.4.5-bin-hadoop2.7.tgz: 다운로드
+spark-2.4.7-bin-hadoop2.7.tgz: 다운로드
 
 ```bash
 > mkdir -p usr
